@@ -19,6 +19,12 @@
                             <input type="text" class="form-control" name="position" id="position">
                         </div>
                         
+                        <div class="col-sm-12 col-md-6 col-lg-6 mt-4  mx-auto ">
+                            <label for="position" class="form-label">ตำแหน่งใหม่
+                                
+                            </label>
+                            <input type="text" class="form-control" name="position" id="position">
+                        </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 mt-4 mx-auto ">
                             <label for="deteils" class="form-label">รายละเอียดผู้เล่น</label>
                             <textarea class="form-control" id="deteils" name="deteils" rows="3"></textarea>
